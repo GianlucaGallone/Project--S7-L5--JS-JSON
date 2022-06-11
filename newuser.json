@@ -4,7 +4,8 @@
       "firstName": "",
       "lastName": "",
       "gender": "",
-      "profileURL": "",
+      "maleProfileURL": "img/male.png",
+      "femaleProfileURL": "img/female.png",
       "email": ""
     }
   ]

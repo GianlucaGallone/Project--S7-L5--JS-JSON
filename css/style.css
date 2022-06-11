@@ -1,7 +1,16 @@
 .field_1 {
     display: flex;
-    /* flex-wrap: wrap; */
+    flex-wrap: wrap;
     justify-content: center;
+}
+.btnField {
+    display: flex;
+    flex-direction: column
+}
+.btnAdd, .btnRemove {
+    height: 30px;
+    margin-bottom: 10px;
+    margin-right: 5px;
 }
 .cardCont{
     background: rgb(0,12,36);
@@ -14,7 +23,8 @@
 }
 .img {
     border: 1px solid black;
-    margin-bottom: 2px;
+    margin-bottom: 10px;
+    border: none;
 }
 .img img {
     width: 100%;
@@ -28,8 +38,40 @@
 .info p {
     text-align: center;
     background-color: rgb(42, 239, 183);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 5px;
+    margin: 10px;
 }
-.btnAdd {
+.info input {
+    width: 100px;
+    height: 18px;
+    border: 1px solid lightgrey;
+    padding: 0;
+}
+.info button {
+    font-size: 0.6em;
+    width: 40px;
+    height: 20px;
+    border: 1px solid lightgrey;
+    padding: 0;
+}
+.imgDiv {
+    display: flex;
+    justify-content: space-evenly;
     margin-bottom: 10px;
-    margin-right: 5px;
+}
+.imgDiv img {
+    width: 100%;
+    height: 100%;
+}
+.maleDiv, .femaleDiv { /* buttons */
+    height: 60px;
+    background-color: rgb(164, 231, 213);
+    border: 3px solid rgb(42, 239, 183);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
