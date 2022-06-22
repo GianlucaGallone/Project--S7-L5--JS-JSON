@@ -4,6 +4,11 @@ Tracks: Use a fetch call to get data and print to an application.
 
 Technologies Used: 
 
+![html-logo](https://user-images.githubusercontent.com/77717069/175128286-669fc137-7bb0-4fdc-a8c9-d2f9091f2a44.svg)
+![css-logo](https://user-images.githubusercontent.com/77717069/175128320-ce0cf666-1efd-451b-a77e-cc23a7fb98aa.svg)
+![js-logo](https://user-images.githubusercontent.com/77717069/175128357-13bb7d40-144b-408a-bd55-2cf320babd94.svg)
+
+
 
 <p><img src="https://i.imgur.com/o7e7431.png" alt="css" width="50px" height="65px"></p>
 Vanilla JavaScript.
