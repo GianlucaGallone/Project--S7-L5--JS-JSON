@@ -3,7 +3,7 @@ Epicode School - Week 7 Project.
 Tracks: Use a fetch call to get data and print to an application.
 
 Language Used: 
-<p><img src="https://i.imgur.com/o7e7431.png" alt="css" width="65px" height="50px"></p>
+<p><img src="https://i.imgur.com/o7e7431.png" alt="css" width="50px" height="65px"></p>
 Vanilla JavaScript.
 
 Project Introduction:
