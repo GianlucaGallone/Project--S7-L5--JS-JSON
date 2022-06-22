@@ -8,4 +8,8 @@ Project Introduction:
 
 When the document loads, 2 sample cards will be generated, with a button to delete the last card created, and a button that generate an empty card with input that can be populated with text to create your own card.
 
-![](https://i.imgur.com/fyPaXtF.gif)
+![alt text][logo]
+
+[logo]: week-7.gif "Week-7"
+
+
