@@ -4,7 +4,7 @@
 
 <p align="center" dir="auto"><b>Technologies Used:</b></p>
 <p align="center" dir="auto"> 
-  <a href="https://www.w3schools.com/css/" rel="nofollow"> 
+  <a href="https://github.com/GianlucaGallone/Project--S7-L5--JS-JSON" target="_blank" rel="nofollow"> 
   <img src="https://user-images.githubusercontent.com/77717069/175134208-91262e59-9bd3-4422-834b-7ac61e39f69b.png" alt="html" width="100">
   </a> 
   <a href="https://www.w3.org/html/" rel="nofollow"> 
