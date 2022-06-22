@@ -1,6 +1,6 @@
 
-<p align="center" dir="auto"><b>Epicode School - Week 7 Project</b> <br><br>
-Track: Use a fetch call to get data and print to an application.</p>
+<p><h2 align="center" dir="auto"><b>Epicode School - Week 7 Project</b></h2></p>
+<p align="center" dir="auto">Track: Use a fetch call to get data and print to an application.</p>
 
 <p align="center" dir="auto"><b>Technologies Used:</b></p>
 <p align="center" dir="auto"> 
