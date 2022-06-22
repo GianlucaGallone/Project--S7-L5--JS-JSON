@@ -2,7 +2,7 @@ Epicode School - Week 7 Project.
 
 Tracks: Use a fetch call to get data and print to an application.
 
-Language Used: ![css](https://i.imgur.com/o7e7431.png)
+Language Used: ![css](https://i.imgur.com/o7e7431.png =50x50)
 Vanilla JavaScript.
 
 Project Introduction:
