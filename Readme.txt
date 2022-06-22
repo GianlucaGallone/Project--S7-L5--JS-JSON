@@ -1,4 +1,4 @@
-Epicode School - Week 7 Project. - Tracks: Use a fetch call to get data and print them to an application (Vanilla JavaScript).
+Epicode School - Week 7 Project. - Tracks: Use a fetch call to get data and print to an application (Vanilla JavaScript).
 
 Project Introduction:
 
