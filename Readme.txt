@@ -10,6 +10,6 @@ When the document loads, 2 sample cards will be generated, with a button to dele
 
 ![alt text][logo]
 
-[logo]: week-7.gif "Week-7"
+[logo]: https://github.com/GianlucaGallone/Project--S7-L5--JS-JSON/blob/f0a7eed3060c65fb8da992534cfdcfd1678e1346/week-7.gif "Week-7"
 
 
