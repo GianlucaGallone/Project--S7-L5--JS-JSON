@@ -1,3 +1,6 @@
+body {
+    background-color: rgb(210, 244, 250);
+}
 .field_1 {
     display: flex;
     flex-wrap: wrap;
@@ -8,14 +11,19 @@
     flex-direction: column
 }
 .btnAdd, .btnRemove {
+    background-color: rgb(158, 228, 228);
+    border: 1px solid black;
+    border-radius: 5px;
     height: 30px;
-    margin-bottom: 10px;
-    margin-right: 5px;
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 5px;
 }
 .cardCont{
     background: rgb(0,12,36);
     background: linear-gradient(90deg, rgba(0,12,36,1) 0%, rgba(0,255,162,1) 50%, rgba(9,121,52,1) 100%);
     border: 1px solid black;
+    border-radius: 5px;
     width: 300px;
     padding: 20px;
     margin-bottom: 10px;
@@ -34,6 +42,7 @@
 .info {
     background-color: rgb(164, 231, 213);
     border: 1px solid black;
+    border-radius: 5px;
 }
 .info p {
     text-align: center;
@@ -41,6 +50,8 @@
     display: flex;
     align-items: center;
     flex-direction: column;
+    border-radius: 5px;
+    border: 1px solid black;
     padding: 5px;
     margin: 10px;
 }

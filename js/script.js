@@ -8,7 +8,7 @@ const cont = document.querySelector('.cardCont');
 
 //#region  ---------- Generazione 2 Card di Esempio all'avvio ------------
 
-fetch('users.json')
+fetch('users.json')         // fetch dell'url
 .then(res => res.json())    // json parse
 .then(function(data) {      // data contiene i dati fetchati dal json
     data.forEach((ele) => { // ele riporta tutti gli array presenti nel json. Per ogni array presente, crea div e lo popola con i dettagli (primo array, poi secondo)
